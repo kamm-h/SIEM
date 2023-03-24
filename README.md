@@ -6,6 +6,6 @@ From our developed searches, we created custom reports, and alerts to monitor th
 
 Lastly, to aid in determining the types of attacks the company faced, we created dashboards to display useful visualizations of our searches.
 
-*From analyzing the logs, we determined that the Windows servers suffered a Brute Force attack and the Apache servers suffered a DDoS attack.
+*From analyzing and comparing the logs, we determined that the Windows servers suffered a Brute Force attack and the Apache servers suffered a DDoS attack.
 
 **This repo only includes screenshots of the dashboards and logs we created
